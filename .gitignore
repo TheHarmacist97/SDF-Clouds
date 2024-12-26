@@ -63,3 +63,7 @@ crashlytics-build.properties
 
 
 SDF Clouds/UserSettings/
+
+SDF Clouds/.idea/.idea.SDF Clouds/.idea/
+
+SDF Clouds/.vscode/
